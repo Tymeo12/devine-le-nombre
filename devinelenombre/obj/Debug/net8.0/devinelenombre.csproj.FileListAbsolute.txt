@@ -1,0 +1,15 @@
+/workspaces/devine-le-nombre/devinelenombre/bin/Debug/net8.0/devinelenombre
+/workspaces/devine-le-nombre/devinelenombre/bin/Debug/net8.0/devinelenombre.deps.json
+/workspaces/devine-le-nombre/devinelenombre/bin/Debug/net8.0/devinelenombre.runtimeconfig.json
+/workspaces/devine-le-nombre/devinelenombre/bin/Debug/net8.0/devinelenombre.dll
+/workspaces/devine-le-nombre/devinelenombre/bin/Debug/net8.0/devinelenombre.pdb
+/workspaces/devine-le-nombre/devinelenombre/obj/Debug/net8.0/devinelenombre.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/devine-le-nombre/devinelenombre/obj/Debug/net8.0/devinelenombre.AssemblyInfoInputs.cache
+/workspaces/devine-le-nombre/devinelenombre/obj/Debug/net8.0/devinelenombre.AssemblyInfo.cs
+/workspaces/devine-le-nombre/devinelenombre/obj/Debug/net8.0/devinelenombre.csproj.CoreCompileInputs.cache
+/workspaces/devine-le-nombre/devinelenombre/obj/Debug/net8.0/devinelenombre.sourcelink.json
+/workspaces/devine-le-nombre/devinelenombre/obj/Debug/net8.0/devinelenombre.dll
+/workspaces/devine-le-nombre/devinelenombre/obj/Debug/net8.0/refint/devinelenombre.dll
+/workspaces/devine-le-nombre/devinelenombre/obj/Debug/net8.0/devinelenombre.pdb
+/workspaces/devine-le-nombre/devinelenombre/obj/Debug/net8.0/devinelenombre.genruntimeconfig.cache
+/workspaces/devine-le-nombre/devinelenombre/obj/Debug/net8.0/ref/devinelenombre.dll
